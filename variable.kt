@@ -1,0 +1,9 @@
+var a:Boolean = true
+var b:Byte = 123 //8bite
+var c:Short = 123 //16bite
+var d:Int = 123 //32bite
+var e: Long = 123 //64bite
+var f:Float = 12.3F //32bite
+var g:Double = 12.3 //64bite
+var h:Char = 'A'
+var i:String = "Hello World"
